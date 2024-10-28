@@ -1,0 +1,2 @@
+# DSA_SCHEDULING_ALGORITHMS_PROJECT
+This contains the code regards the project on DSA - SCHEDULING ALGORITHMS - PROJECT
